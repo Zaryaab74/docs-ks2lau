@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-pcc82f.pagopilaenlinea.top/sitemap.xml
